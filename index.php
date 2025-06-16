@@ -16,12 +16,7 @@ function sayHello($name) {
 		<title>Visual Studio Code Remote :: PHP</title>
 	</head>
 	<body>
-		<?php 
-		
-		sayHello('remote world');
-			
-		phpinfo(); 
-			
-		?>
+		<?php sayHello('Aaron!!'); ?>
+		<h1><a href="./webapp">Movie Web App으로 이동</a>
 	</body>
 </html>
